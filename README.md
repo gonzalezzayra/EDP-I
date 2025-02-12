@@ -1,2 +1,2 @@
 # EDP-I
-Curso de Ecuaciones Diferenciales Parciales I 
+Ejercicios del curso de Ecuaciones Diferenciales Parciales I 
